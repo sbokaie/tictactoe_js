@@ -1,0 +1,31 @@
+<style>
+
+h1 {
+	font-family: sans-serif;
+	color: #3B3B3B;
+}
+
+#box{
+  width: 302px;
+  height: 298px;
+}
+
+input{
+ width: 98px;
+ height: 98px;
+ border: 1px;
+ font-size: 55px;
+ color: blue;
+ background-color: #F56E6E;
+}
+
+#resetButton{
+ width: 302px;
+ height: 98px;
+ border: 1px;
+ font-size: 55px;
+ color: #3B3B3B;
+ background-color: #6E90F5; 
+}
+
+</style>
